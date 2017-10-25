@@ -10,6 +10,7 @@ target 'WxToutiao' do
   pod 'ObjectMapper',' ~>3.0.0'    #json封装
   pod 'PageMenu',' ~>2.0.0'        #分页菜单组件
 #  pod 'IQKeyboardManager' #键盘管理
+  pod 'IQKeyboardManagerSwift'
   pod 'LeoDanmakuKit',' ~>1.0.1'   #弹幕
   pod 'LLSwitch',' ~>1.0.4'        #有趣的开关
   pod 'WZLBadge',' ~>1.2.6'        #显示有上角红点

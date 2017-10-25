@@ -76,7 +76,7 @@ class DetailController: UIViewController,LLSwitchDelegate {
     
     func showCommentBadge(_ count:Int){
         if count > 0 {
-            commentBtn.badgeCenterOffset=CGPoint(x: -4, y: 5)
+            commentBtn.badgeCenterOffset=CGPoint(x: -3, y: 3)
             commentBtn.showBadge(with: .number, value: count, animationType: .bounce)
         }
         
