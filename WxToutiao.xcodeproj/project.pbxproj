@@ -79,6 +79,17 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		5D90453F1FA0880B002C146D /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+				5DF07BA31F8348E1005B2F1C /* html2String.swift */,
+				5DF07BAB1F8390A9005B2F1C /* NotificationHelper.swift */,
+				5DF07BA91F838297005B2F1C /* WxCommon.swift */,
+				5DF07BA11F8329A4005B2F1C /* UIColorExtension.swift */,
+			);
+			path = Tools;
+			sourceTree = "<group>";
+		};
 		5D99DCD01F81E4A900FF61D6 = {
 			isa = PBXGroup;
 			children = (
@@ -108,10 +119,7 @@
 				5D99DCF41F8230A500FF61D6 /* TextCell.swift */,
 				5D99DCF21F82221200FF61D6 /* NewsListController.swift */,
 				5D99DCF61F8236C200FF61D6 /* DetailController.swift */,
-				5DF07BA11F8329A4005B2F1C /* UIColorExtension.swift */,
-				5DF07BA31F8348E1005B2F1C /* html2String.swift */,
-				5DF07BAB1F8390A9005B2F1C /* NotificationHelper.swift */,
-				5DF07BA91F838297005B2F1C /* WxCommon.swift */,
+				5D90453F1FA0880B002C146D /* Tools */,
 				5DF07BA51F835EE0005B2F1C /* scroll.js */,
 				5D99DCE01F81E4A900FF61D6 /* Main.storyboard */,
 				5D99DCE31F81E4A900FF61D6 /* Assets.xcassets */,
